@@ -33,7 +33,7 @@ If you choose to train a new model:
 If you choose to load an existing model:
 - The script will load the pre-trained model from the specified file.
 
-# Once the model is loaded or trained, you can provide custom images containing handwritten digits for prediction(PUT YOUR CUSTOM IMAGES IN THE FOLDER NAMED "digits"(REMEMBER TO PROVIDE 28 x 28 PIXEL IMAGES). The script will display the predicted digit along with the input image.
+## Once the model is loaded or trained, you can provide custom images containing handwritten digits for prediction(PUT YOUR CUSTOM IMAGES IN THE FOLDER NAMED "digits"(REMEMBER TO PROVIDE 28 x 28 PIXEL IMAGES). The script will display the predicted digit along with the input image.
 
 ## Requirements
 
