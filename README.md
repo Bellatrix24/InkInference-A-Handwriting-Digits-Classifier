@@ -50,3 +50,4 @@ Once the model is loaded or trained, you can provide custom images containing ha
 
 Happy digit recognition!
 
+This project was made by Saumya Singh for the Code clause internship.
