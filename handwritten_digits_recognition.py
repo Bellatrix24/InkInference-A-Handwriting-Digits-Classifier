@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-print("Hey there! Welcome to the totally original Handwritten Digits Recognition Tool v2.0 ()")
+print("Hey there! Welcome to the totally original Handwritten Digits Recognition Tool v2.0 (old model used 3 Epochs , updated it again to use 5 epochs as accuracy was a bit off)")
 
 # Decide whether to load an existing model or train a fresh one
 create_new_model = False
