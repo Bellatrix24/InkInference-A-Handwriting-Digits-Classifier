@@ -1,4 +1,4 @@
-# Handwritten Digit Recognizer
+# InkInference: A Handwritten Digit Recognizer
 
 Welcome to the Handwritten Digit Recognizer tool! This tool is designed to recognize handwritten digits using machine learning techniques. It leverages neural networks to accurately classify and identify digits from input images.
 
